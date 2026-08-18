@@ -1,4 +1,4 @@
-name: "Project title starter"
-identifier: "project-name-starter"
+name: "Folding flowers starter"
+identifier: "folding-flowers-starter"
 type: 'python'
-build: false
+build: true
