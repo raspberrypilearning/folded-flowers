@@ -1,13 +1,16 @@
-title: Project title in sentence case
+title: Folding flowers
 hero_image: images/banner.png
-description: A short description of the project
+description: Design a paper cut in code, then fold and cut your own
 listed: false
 pdf: false
+landing: true
 steps:
-  - title: What you will make
   - title: Step title
     completion:
-      - engaged      
+      - engaged
+  - title: Step title
+    completion:
+      - internal
   - title: Challenge
     challenge: true
     completion:
