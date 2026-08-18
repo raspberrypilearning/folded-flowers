@@ -5,10 +5,10 @@ listed: false
 pdf: false
 landing: true
 steps:
-  - title: Step title
+  - title: Step 1
     completion:
       - engaged
-  - title: Step title
+  - title: Step 2
     completion:
       - internal
   - title: Challenge
