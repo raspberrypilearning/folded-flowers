@@ -1,8 +1,6 @@
 function setup() {
-  createCanvas(400, 400);
-  ellipseMode(CENTER);
-  rectMode(CENTER);
-  noStroke();
+  const canvas = createCanvas(400, 400);
+  canvas.parent('sketch-holder');
 }
 
 function draw() {
